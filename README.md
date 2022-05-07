@@ -1,4 +1,3 @@
-
 This is a course of youtube and platzi resource
 
 Guide:
