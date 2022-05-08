@@ -64,10 +64,10 @@ test('Proof async/await', async () => {
 	expect(string).toBe('olleH');
 });
 
-// how to execute tests after and before testing process
-afterEach(() => console.log('After each test'));
-afterAll(() => console.log('After all tests'));
+// // how to execute tests after testing process
+// afterEach(() => console.log('After each test'));
+// afterAll(() => console.log('After all tests'));
 
-// 
-beforeEach(() => console.log('Before each test'));
-beforeAll(() => console.log('Before all tests'));
+// // how to execute tests before testing process
+// beforeEach(() => console.log('Before each test'));
+// beforeAll(() => console.log('Before all tests'));
