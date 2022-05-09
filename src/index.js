@@ -14,5 +14,3 @@ const reverseString2 = str => {
 		resolve(str.split("").reverse().join(""))
 	});
 };
-
-module.exports = randomString;
